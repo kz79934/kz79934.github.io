@@ -418,10 +418,9 @@ ul#nav li a:hover {
   border-radius: 5%;
   box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.2);
   height: auto;
-  left: 35px;
   margin: -1px auto;
   position: relative;
-  width: 65%;
+  width: 100%;
   z-index: 2;
 }
 
